@@ -32,7 +32,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class LocationSearch extends AppCompatActivity {
 
-    private final String API_KEY = "AIzaSyCDdT7clO_j2NVo3jhja5tDcOywBN1xIpg";
+    private final String API_KEY = "YOUR_API_KEY";
     public static final String TAG = "SHAGUN";
 
     private String StringToSearch;
